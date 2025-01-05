@@ -3,7 +3,6 @@
 <!--
 **oshanLahiru0307/oshanLahiru0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# 💫 About Me:
 🔭 Student at SLIIT University (Specializing in Information Technology)<br>
 🌱 Currently learning Artificial Intelligence and Machine Learning Engineering<br>
 👯 Looking to collaborate on AI/ML and Java projects<br>
