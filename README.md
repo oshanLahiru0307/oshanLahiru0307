@@ -1,7 +1,7 @@
 ## Hi, I'm Oshan 👋
 
 <!--
-**oshanLahiru0307/oshanLahiru0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oshanLahiru0307/oshanLahiru0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
 🔭 Student at SLIIT University (Specializing in Information Technology)<br>
